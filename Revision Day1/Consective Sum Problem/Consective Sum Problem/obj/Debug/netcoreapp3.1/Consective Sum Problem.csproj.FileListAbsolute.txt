@@ -1,0 +1,13 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.exe
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.exe
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\bin\Debug\netcoreapp3.1\Delete Occurrences of an element.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Delete Occurrences of an element\Delete Occurrences of an element\obj\Debug\netcoreapp3.1\Delete Occurrences of an element.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.exe
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\bin\Debug\netcoreapp3.1\Sum of difference.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Sum of difference\Sum of difference\obj\Debug\netcoreapp3.1\Sum of difference.genruntimeconfig.cache

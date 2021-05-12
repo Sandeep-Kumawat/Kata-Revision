@@ -38,6 +38,15 @@ namespace ProductData.Operation
                    $" {searchData.CategoryDescription}");
             Console.ReadKey();
         }
+        public static void DeleteCategory(string name)
+        {
+            var searchData = data.Find((i) => i.Category_Name == name);
+            data.Remove(searchData);
+            List<string> list = new List<string>();
+            data.ForEach(x => list.Add($"{x.Category_ID},{x.Category_Name},{x.CategoryShortCode},{x.CategoryDescription}"));
+            ProductFileManager.WriteAllDataIntoFile(list);
+
+        }
     }
 }
 

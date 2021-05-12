@@ -56,7 +56,15 @@ namespace ProductData.Menu
                     CategoryOperation.SearchCategory(searchCategoryName);
                     break;
                 case 'd':
-                  
+                    Console.WriteLine("Enter Product Name");
+                    var DeleteCategoryName = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(DeleteCategoryName) || int.TryParse(DeleteCategoryName, out _))
+                    {
+                        Console.WriteLine("Please Enter Only Char and It can not be Empty");
+                        DeleteCategoryName = Console.ReadLine();
+
+                    }
+                    CategoryOperation.DeleteCategory(DeleteCategoryName);
                     break;
                 case 'e':
                     MainMenu.Menu();

@@ -46,6 +46,17 @@ namespace ProductData.Operation
             Console.WriteLine($"{searchData.Product_ID}, {searchData.product_Name}, {searchData.Manufacturer}," +
                    $" {searchData.ProductShortCode}, {searchData.ProductCategory}, {searchData.ProductDescription}, {searchData.Selling_Price}");
             Console.ReadKey();
+            
         }
+        public static void DeleteProduct(string name)
+        {
+            var searchData = data.Find((i) => i.product_Name == name);
+            data.Remove(searchData);
+            List<string> list = new List<string>();
+            data.ForEach(x => list.Add($"{x.Product_ID},{x.product_Name},{x.Manufacturer},{x.ProductShortCode},{x.ProductCategory},{x.ProductDescription},{x.Selling_Price}"));
+            ProductFileManager.WriteAllDataIntoFile(list);
+
+        }
+
     }
 }

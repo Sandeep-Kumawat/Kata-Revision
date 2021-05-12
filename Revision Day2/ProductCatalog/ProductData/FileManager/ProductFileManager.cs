@@ -51,6 +51,14 @@ namespace ProductData.FileManager
             }
 
         }
-
+        public static void WriteAllDataIntoFile(List<string> list)
+        {
+            var fileName = @"C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\productData.csv";
+            using (FileStream fs = new FileStream(fileName, FileMode.Truncate))
+            using (StreamWriter writer = new StreamWriter(fs))
+            {
+                list.ForEach(x => writer.WriteLine(x));
+            }
+        }
     }
 }

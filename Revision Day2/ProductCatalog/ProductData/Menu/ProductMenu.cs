@@ -82,7 +82,15 @@ namespace ProductData.Menu
                     ProductOperation.SearchProduct(SearchProductName);
                     break;
                 case 'd':
+                    Console.WriteLine("Enter Product Name");
+                    var DeleteProductName = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(DeleteProductName) || int.TryParse(DeleteProductName, out _))
+                    {
+                        Console.WriteLine("Please Enter Only Char and It can not be Empty");
+                        DeleteProductName = Console.ReadLine();
 
+                    }
+                    ProductOperation.DeleteProduct(DeleteProductName);
                     break;
                 case 'e':
                     MainMenu.Menu();

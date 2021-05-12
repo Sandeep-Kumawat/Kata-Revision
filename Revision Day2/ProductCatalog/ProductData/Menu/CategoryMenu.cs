@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProductData.Operation;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,8 +12,8 @@ namespace ProductData.Menu
             Console.WriteLine("Please Select Category Operation");
             Console.WriteLine("a. Enter a Category");
             Console.WriteLine("b. List all Categories");
-            Console.WriteLine("c. Delete a Category");
-            Console.WriteLine("d. Search a Category");
+            Console.WriteLine("c. Search a Category");
+            Console.WriteLine("d. Delete a Category");
             Console.WriteLine("e. Main Menu");
             char ch1 = Convert.ToChar(Console.ReadLine());
 
@@ -37,20 +38,28 @@ namespace ProductData.Menu
                         Console.WriteLine("Please Enter Only Char and It can not be Empty");
                         desc = Console.ReadLine();
                     }
-                    
+                    CategoryOperation.AddCategory(categoryName, shortCode, desc);
                     break;
                 case 'b':
-                    
+                    CategoryOperation.GetAllCategory();
                     Console.ReadKey();
                     break;
                 case 'c':
-                    
+                    Console.WriteLine("Enter Category Name");
+                    var searchCategoryName = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(searchCategoryName) || int.TryParse(searchCategoryName, out _))
+                    {
+                        Console.WriteLine("Please Enter Only Char and It can not be Empty");
+                        searchCategoryName = Console.ReadLine();
+                        
+                    }
+                    CategoryOperation.SearchCategory(searchCategoryName);
                     break;
                 case 'd':
                   
                     break;
                 case 'e':
-
+                    MainMenu.Menu();
                     break;
                 default:
                     Console.WriteLine("Invalid Selection");

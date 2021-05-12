@@ -40,5 +40,12 @@ namespace ProductData.Operation
             Console.ReadKey();
 
         }
+        public static void SearchProduct(string name)
+        {
+            var searchData = data.Find((i) => i.product_Name == name);
+            Console.WriteLine($"{searchData.Product_ID}, {searchData.product_Name}, {searchData.Manufacturer}," +
+                   $" {searchData.ProductShortCode}, {searchData.ProductCategory}, {searchData.ProductDescription}, {searchData.Selling_Price}");
+            Console.ReadKey();
+        }
     }
 }

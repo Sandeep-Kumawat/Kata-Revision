@@ -12,8 +12,8 @@ namespace ProductData.Menu
             Console.WriteLine("Please Select Product Operation");
             Console.WriteLine("a. Add a Product");
             Console.WriteLine("b. List all Products");
-            Console.WriteLine("c. Delete a Product");
-            Console.WriteLine("d. Search a Product");
+            Console.WriteLine("c. Search a Product");
+            Console.WriteLine("d. Delete a Product");
             Console.WriteLine("e. Main Menu");
             char ch1 = Convert.ToChar(Console.ReadLine());
 
@@ -71,13 +71,21 @@ namespace ProductData.Menu
                     ProductOperation.GetAllProduct();
                     break;
                 case 'c':
+                    Console.WriteLine("Enter Product Name");
+                    var SearchProductName = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(SearchProductName) || int.TryParse(SearchProductName, out _))
+                    {
+                        Console.WriteLine("Please Enter Only Char and It can not be Empty");
+                        ProductName = Console.ReadLine();
 
+                    }
+                    ProductOperation.SearchProduct(SearchProductName);
                     break;
                 case 'd':
 
                     break;
                 case 'e':
-
+                    MainMenu.Menu();
                     break;
                 default:
                     Console.WriteLine("Invalid Selection");
